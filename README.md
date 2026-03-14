@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://sagar17.netlify.app](https://sagar17.netlify.app)
+- 👨‍💻 All of my projects are available at [https://sagar17.netlify.app](https://spbaruah.space/)
 
 - 📫 How to reach me **spbaruah000@gmail.com**
 
